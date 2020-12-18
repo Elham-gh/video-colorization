@@ -1,0 +1,2 @@
+https://github.com/jantic/DeOldify
+https://towardsdatascience.com/colorize-a-video-with-deep-learning-15b30da3b57c
