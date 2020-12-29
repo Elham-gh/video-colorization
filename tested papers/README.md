@@ -2,7 +2,6 @@
 
           ImageNet + Gathering Video Dataset
 
-2. Image Colorization using Using Generative Adverserial Network
+2. Image Colorization Using Generative Adverserial Network
 
-          Tensorflow version error, we need to change to keras
-
+          Is Running Now
